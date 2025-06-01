@@ -16,8 +16,8 @@ button{
     padding: 10px;
     background: white;
     border-radius: 5px;
-    border: dotted 1px pink;
+    border: dotted 1px rgba(18, 120, 164, 0.612);
     font-weight: bold;
-    color: #d86c7a;
+    color: rgb(128, 205, 215);
     margin-left: 0px;
 }
