@@ -18,11 +18,11 @@
 }
 
 .score-box {
-  border: 2px dotted #d86c7a;
+  border: 2px dotted #1278a49c;
   border-radius: 20px;
   padding: 20px;
   width: 200px;
-  background: linear-gradient(to right, #f8ede3, #fce1e4);
+  background: linear-gradient(to right, #5db1d4, #2678ab);
   border-radius: 40px;
 }
 
@@ -40,10 +40,10 @@
 }
 
 .message-box {
-  border: 2px dotted #d86c7a;
+  border: 2px dotted #1278a49c;
   border-radius: 20px;
   padding: 20px;
   min-width: 220px;
-  background: linear-gradient(to right, #f8ede3, #fce1e4);
+  background: linear-gradient(to right, #5eb1d4, #167e9b);
   border-radius: 40px;
 }

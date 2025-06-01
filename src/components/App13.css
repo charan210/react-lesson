@@ -2,7 +2,7 @@
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
-  background: linear-gradient(to right, #fce3d4, #f8e5e5);
+  background: linear-gradient(to right, #78cee7, #1cb4cb);
   border-radius: 60px;
   width: fit-content;
   margin: 50px auto;
@@ -10,7 +10,7 @@
 }
 
 .heading {
-  color: #d86c7a;
+  color: #1278a49c;
   margin-bottom: 10px;
 }
 
@@ -40,7 +40,7 @@
   border-radius: 20px;
   min-width: 200px;
   font-size: 18px;
-  border: 1px solid #f5c3cb;
+  border: 1px solid #6abfec;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
 }
 

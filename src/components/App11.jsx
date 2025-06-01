@@ -10,7 +10,7 @@ export default function App11() {
 
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App11</h1>
+      <h1 style={{ color: "#1278a49c" }}>App11</h1>
       <h2>useEffect hook and Component Life Cycle</h2>
     </div>
   );

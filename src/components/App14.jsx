@@ -21,7 +21,7 @@ export default function App14() {
   };
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App14</h1>
+      <h1 style={{ color: "#1278a49c" }}>App14</h1>
       <h2>useEffect hook to fetch api</h2>
        
         <p>

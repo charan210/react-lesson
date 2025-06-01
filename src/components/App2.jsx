@@ -10,7 +10,7 @@ export default function App2() {
   
   return (
     <div>
-      <h1 style={{color:'#d86c7a'}}>This is App2 component</h1>
+      <h1 style={{color:'#1278a49c'}}>This is App2 component</h1>
       <h2>Working with Arrays and Objects,Applying Styles</h2>
       <div className="App-Product-Container">
         {products.map((value) => (

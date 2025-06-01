@@ -6,7 +6,7 @@ export default function App6() {
   return (
     <div>
         
-        <h1 style={{color:'#d86c7a'}}>This is App6 Component</h1>
+        <h1 style={{color:'#1278a49c'}}>This is App6 Component</h1>
         <div className="Box">
       <div className="container">
         <Fruit name="Apple" />

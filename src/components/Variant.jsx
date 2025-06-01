@@ -7,7 +7,7 @@ export default function Variant() {
         <li style={{color:'black'}}>Black</li>
         <li style={{color:'darkred'}}>Cherry Red</li>
         <li style={{color:'lavender'}}>Lavender</li>
-        <li style={{color:'pink'}}>Pink</li>
+        <li style={{color:'red'}}>Red</li>
       </ul>
     </div>
   );

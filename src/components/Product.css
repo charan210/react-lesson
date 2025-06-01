@@ -3,16 +3,16 @@
     padding: 10px;
     border-radius: 5px;
     width: 300px;
-    background: linear-gradient(to right, #f8ede3, #fce1e4);
-    color: #d86c7a;
+    background: linear-gradient(to right, #2d83d8, #0f6bbb);
+    color: #1278a49c;
     border: dotted;
 }
 button{
     padding: 10px;
     background: white;
     border-radius: 5px;
-    border: dotted 1px pink;
+    border: dotted 1px #0b35479c;
     font-weight: bold;
-    color: #d86c7a;
+    color: #1278a49c;
     margin-left: 0px;
 }

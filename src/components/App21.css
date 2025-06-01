@@ -16,9 +16,9 @@
 .box {
   flex: 1;
   padding: 20px;
-  border: 2px dotted #d86c7a;
+  border: 2px dotted ;#1278a49c
   border-radius: 10px;
-   background: linear-gradient(to right, #f8ede3, #fce1e4);
+   background: linear-gradient(to right, #5e9de0, #0a4768);
 }
 
 .box input {
@@ -31,9 +31,9 @@
 
 .user-list {
   padding: 20px;
-  border: 2px dotted #d86c7a;
+  border: 2px dotted #1278a49c;
   border-radius: 10px;
-   background: linear-gradient(to right, #f8ede3, #fce1e4);
+   background: linear-gradient(to right, #5faecd, #046580);
   text-align: left;
 }
 

@@ -8,7 +8,7 @@ export default function App4() {
   };
   return (
     <div>
-      <h1 style={{color:'#d86c7a'}}>App4</h1>
+      <h1 style={{color:'#1278a49c'}}>App4</h1>
       <h2>Event Handling</h2>
       <p>
         <button onClick={handleSubmit}>Submit</button>

@@ -34,7 +34,7 @@ export default function App10() {
 
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App10</h1>
+      <h1 style={{ color: "#1278a49c" }}>App10</h1>
 
       <h2>Products</h2>
       <div className="Container">
@@ -49,7 +49,7 @@ export default function App10() {
 
       <hr />
 
-      <h2 style={{ color: "#d86c7a" }}>My Cart</h2>
+      <h2 style={{ color: "#1278a49c" }}>My Cart</h2>
        <ol>
   {products.map((product) => {
     const qty = cart[product.id];
